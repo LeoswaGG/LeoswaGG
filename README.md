@@ -15,7 +15,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **JavaScript**
 
--  🧑‍💻 Soy un desarrollador autodidacta. "Si estás aprendiendo algo por tu cuenta, siempre hay un punto en el que te sientes solo, por eso es importante rodearse de otras personas con intereses similares o que tengan una perspectiva similar para mantenerte motivado." -Elon Musk-
+-  🧑‍💻 Soy un desarrollador autodidacta. *"Si estás aprendiendo algo por tu cuenta, siempre hay un punto en el que te sientes solo, por eso es importante rodearse de otras personas con intereses similares o que tengan una perspectiva similar para mantenerte motivado."* **-Elon Musk**
 
 <div align="left">
     <h3>🔨 Lenguajes y herramientas:</h3>
@@ -36,4 +36,6 @@
 
 ![LeoswaGG GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoswaGG&theme=blue-green&show_icons=true)
 
-
+Extra:
+Cuento con un certificado web sobre diseño responsivo
+<img src ="certificado.png" align="center">
