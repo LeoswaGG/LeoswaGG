@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200" />
+    <img src="https://media4.giphy.com/media/goiauJeRxagM/giphy.gif?cid=ecf05e47apwpq5xqtr3pb31i13ydi3lfn86vnfg06r82uq3j&rid=giphy.gif&ct=g" width="500" />
     <h1 align="center">Hola 👋, Soy Leonardo</h1>
     <h3 align="center">Un desarrollador BackEnd de México. En proceso de aprendizaje con el desarrollo y mantenimiento de aplicaciones web escalables y robustas. Me apasiona la creación de soluciones que resuelvan problemas y mejoren la experiencia del usuario. Además, me gusta mantenerme actualizado en las últimas tendencias y tecnologías en el mundo del desarrollo de BackEnd.</h3>
 </div>
@@ -14,6 +14,8 @@
 - 📫 Como contactarme **pepinillosmtzswag@gmail.com**
 
 - 🌱 Actualmente estoy aprendiendo **JavaScript**
+
+-  🧑‍💻 Soy un desarrollador autodidacta. "Si estás aprendiendo algo por tu cuenta, siempre hay un punto en el que te sientes solo, por eso es importante rodearse de otras personas con intereses similares o que tengan una perspectiva similar para mantenerte motivado." -Elon Musk-
 
 <div align="left">
     <h3>🔨 Lenguajes y herramientas:</h3>
