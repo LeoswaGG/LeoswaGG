@@ -42,5 +42,5 @@
 ---
 
 Extra:
-Cuento con un certificado web sobre diseño responsivo
-<img src ="certificado.png" align="center">
+Cuento con un certificado en JavaScript
+<img src ="certificado_js.png" align="center">
