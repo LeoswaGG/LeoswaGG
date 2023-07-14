@@ -1,25 +1,26 @@
 <div id="header" align="center">
     <img src="https://media4.giphy.com/media/goiauJeRxagM/giphy.gif?cid=ecf05e47apwpq5xqtr3pb31i13ydi3lfn86vnfg06r82uq3j&rid=giphy.gif&ct=g" width="500" />
-    <h1 align="center">Hola 👋, Soy Leonardo</h1>
-    <h3 align="center">Un desarrollador BackEnd de México. En proceso de aprendizaje con el desarrollo y mantenimiento de aplicaciones web escalables y robustas. Me apasiona la creación de soluciones que resuelvan problemas y mejoren la experiencia del usuario. Además, me gusta mantenerme actualizado en las últimas tendencias y tecnologías en el mundo del desarrollo de BackEnd.</h3>
+    <h1 align="center">Hi 👋, I'm Leonardo</h1>
+    <h3 align="center">A Mexican BackEnd developer. In the process of learning about the development and maintenance of scalable and robust web applications. I'm passionate about creating solutions that solve problems and improve the user experience. Additionally, I enjoy staying up to date on the latest trends and technologies in the world of BackEnd development.</h3>
 </div>
 
 ---
 
-### 👨‍💻 Acerca de mí :
+### 👨‍💻 About me :
 
-- 📝 Siempre estoy aprendiendo tecnologías nuevas
+- 📝 I'm always learning new technologies
 
-- 💬 Preguntame sobre **Javascript**
+- 💬 Ask me about **Javascript**
 
-- 📫 Como contactarme **pepinillosmtzswag@gmail.com**
+- 📫 You can reach me at **pepinillosmtzswag@gmail.com**
 
-- 🌱 Actualmente estoy aprendiendo **JavaScript**
+- 🌱 Currently, I'am learning **JavaScript**
 
--  🧑‍💻 Soy un desarrollador autodidacta. *"Si estás aprendiendo algo por tu cuenta, siempre hay un punto en el que te sientes solo, por eso es importante rodearse de otras personas con intereses similares o que tengan una perspectiva similar para mantenerte motivado."* **-Elon Musk**
-
+-  🧑‍💻 I'm a self-taught developer. *"When you're learning something on your own, there always comes a ponit where you feel alone, that's why it's important to surround yourself with like-minded people or those who have a similar perspective to stay motivated."* **-Elon Musk**
+-  🫵 *"Weak individuals give up when they are tired, pain is the ultimate growth*, **STAY HARD MOTHERFuCKERS !**" - **David Goggins**
+  
 <div align="left">
-    <h3>🔨 Lenguajes y herramientas:</h3>
+    <h3>🔨 Languages and Tools:</h3>
     <div>
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg"  title="VsCode" alt="VsCode" width="40" height="40"/>&nbsp;
                <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -31,7 +32,7 @@
 
 ---
 
-### 📊 Mis estadísticas :
+### 📊 My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LeoswaGG&theme=one-dark-pro&hide_border=verdadero&border_radius=5&locale=es&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
@@ -42,5 +43,5 @@
 ---
 
 Extra:
-Cuento con un certificado en JavaScript
+I have certificate in JavaScript
 <img src ="certificado_js.png" align="center">
