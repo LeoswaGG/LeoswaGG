@@ -10,11 +10,11 @@
 
 - 📝 I'm always learning new technologies
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **Bussiness**
 
 - 📫 You can reach me at **pepinillosmtzswag@gmail.com**
 
-- 🌱 Currently, I'am learning **JavaScript**
+- 🌱 Currently, I'am learning **ReactJS**
 
 -  🧑‍💻 I'm a self-taught developer. *"When you're learning something on your own, there always comes a ponit where you feel alone, that's why it's important to surround yourself with like-minded people or those who have a similar perspective to stay motivated."* **-Elon Musk**
 -  🫵 *"Weak individuals give up when they are tired, pain is the ultimate growth*, **STAY HARD MOTHERFuCKERS !**" - **David Goggins**
@@ -27,6 +27,10 @@
                 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" title="ReactJS" alt="ReactJS" width="40" height="40"/>&nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg" title="Mysql" alt="Mysql" width="40" height="40"/>&nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Mysql" alt="Mysql" width="40" height="40"/>&nbsp;
       </div>
 </div>
 
